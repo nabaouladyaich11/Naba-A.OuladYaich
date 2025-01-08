@@ -20,5 +20,4 @@ Welcome to my GitHub profile repository! 🎉 Here you'll find an overview of my
 - **Soft Skills:** Critical Thinking, Leadership  
 
 ## 📫 Connect with Me:
-- [GitHub](https://github.com/nabaouladyaich11)  
 - [LinkedIn](https://www.linkedin.com/in/naba%E2%80%99a-a-43896b272/)
