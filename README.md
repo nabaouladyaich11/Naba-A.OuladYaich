@@ -12,8 +12,10 @@ Welcome to my GitHub profile repository! 🎉 Here you'll find an overview of my
 
 ## 🌟 Featured Projects:
 
-- [Image Enhancement Toolkit](https://github.com/nabaouladyaich11/Medical-Image-Enhancement) - Image prossing -based tool for Radiology image clarity and noise reduction.
+- [Image Enhancement Toolkit](https://github.com/nabaouladyaich11/Medical-Image-Enhancement) - Image processing-based tool for Radiology image clarity and noise reduction.
 - [Smart City Traffic Management](#) - Using ML to optimize traffic flow.
+- [Cash Wise](https://github.com/nabaouladyaich11/Cash-Wise) - A Bash script-based tool for financial management, featuring account creation, expense tracking, and budget management.
+
 
 ## 💻 Skills:
 - **Programming Languages:** Python, Java, MATLAB  
