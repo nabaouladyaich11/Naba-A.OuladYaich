@@ -11,9 +11,9 @@ Welcome to my GitHub profile repository! 🎉 Here you'll find an overview of my
 - Exploring MLOps and Big Data Engineering  
 
 ## 🌟 Featured Projects:
-- [Image Enhancement Toolkit](#) - AI-based tool for image clarity and noise reduction.  
-- [Smart City Traffic Management](#) - Using ML to optimize traffic flow.  
 
+- [Image Enhancement Toolkit](https://github.com/nabaouladyaich11/Medical-Image-Enhancement) - Image prossing -based tool for Radiology image clarity and noise reduction.
+- [Smart City Traffic Management](#) - Using ML to optimize traffic flow.
 
 ## 💻 Skills:
 - **Programming Languages:** Python, Java, MATLAB  
